@@ -100,17 +100,4 @@ a {
   text-decoration: none;
 }
 
-p {
-  margin-left: 2%;
-  margin-right: 2%;
-  margin-bottom: -5%;
-  font-size: 1em;
-  font-weight: bold;
-  color: #000000;
-  position: relative;
-  display: inline-block;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #ffffff;
-}
-
 
