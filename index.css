@@ -6,8 +6,8 @@ body, html {
 }
 
 body {
-  background: url(./images/bg01.jpg) no-repeat center center fixed;
   background-size: cover;
+  background-color: rgb(211, 186, 223);
 }
 
 #vanta {
